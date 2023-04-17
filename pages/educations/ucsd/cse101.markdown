@@ -1,0 +1,17 @@
+{: .primer-spec-toc-ignore }
+
+### Description
+
+Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems.
+
+### Skill Grow
+
+- Reading Comprehension
+- Critical Thinking
+- Problem Solving
+- Domain Knowledge: Algorithm
+- Creativity
+
+### Comment
+
+Arguably the most difficult class I have taken.

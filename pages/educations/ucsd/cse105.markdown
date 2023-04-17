@@ -1,0 +1,18 @@
+{: .primer-spec-toc-ignore }
+
+### Description
+
+An introduction to the mathematical theory of computability. Formal languages. Finite automata and regular expressions. Push-down automata and context-free languages. Computable or recursive functions: Turing machines, the halting problem. Undecidability. 
+
+### Topic
+- Formal languages
+- Regular Expression
+- DFA (Deterministic Finite Automation), NFA
+- Proof, Pumpping Lemma
+- CFG (Context-free Grammar)
+- PDA (Push Down Automation)
+- Turing Machine
+- Computational Problems (P, NP, NP complete, NP hard)
+- Halting Problem
+- Mapping Reduction
+- Computable Function

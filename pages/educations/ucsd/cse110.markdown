@@ -1,0 +1,29 @@
+{: .primer-spec-toc-ignore }
+
+### Description
+
+Introduction to software development and engineering methods, including specification, design, implementation, testing, and process. An emphasis on team development, agile methods, and use of tools such as IDE’s, version control, and test harnesses. 
+
+### Schedule
+
+Week 1 -  Intros, Logistics, Class Goals, Foundational Material, Motivation, Individual Management, Disruptive Effects of LLMs
+
+Week 2 - Group Dynamics, "Practicing",  Team Formation (Initial Tech Skills, Initial Social Skills), Project Setup
+
+Week 3 - User-Centered Thinking & Design - User Stories and Design
+
+Week 4 - Process Models - Theory and Practice - Planning, Requirements, and Diagramming
+
+Week 5 - Interfaces and Patterns - Wireframe and Design
+
+Week 6 - Writing Engineering Level Code 
+
+Week 7 - Building and Managing Projects
+
+Week 8 - Testing 
+
+Week 9 - DevOps
+
+Week 10 - The Secret Life of Software, Class Retro
+
+Final - Project Presentation
