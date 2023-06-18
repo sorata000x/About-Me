@@ -1,0 +1,8 @@
+{: .primer-spec-toc-ignore }
+
+### Motivation 
+
+I found my digital system class, mainly in the field of EECS, dreadfully boring, so I want to find a way to bring out my intrinsict motivation by watching some MIT courses which always inspire and motivate me. 
+
+Note: This page might disappear misteriously if I get bored of it before completion, which should not be surprising.
+

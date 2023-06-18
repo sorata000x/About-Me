@@ -3,13 +3,15 @@ layout: page
 title: Education
 ---
 
-### Informal
+### Tool
 
-[MySQL](./educations/mysql.markdown)
+[Javascript](./educations/tool/javascript.markdown)
 
-[React](./educations/react.markdown)
+[MySQL](./educations/tool/mysql.markdown)
 
-[PyQt6](./educations/pyqt6.markdown)
+[React](./educations/tool/react.markdown)
+
+[PyQt6](./educations/tool/pyqt6.markdown)
 
 ### University of California San Diego
 
@@ -42,3 +44,9 @@ Fall 2022
 [CSE 21. Algorithms](./educations/ucsd/cse21.markdown)
 
 [CSE 193. Computer Science Research](./educations/ucsd/cse193.markdown)
+
+### MIT OpenCourseWare
+
+[MIT 6.034. Artificial Intelligence](./educations/mit/6.034.markdown) (In Progress)
+
+[MIT 6.01SC. Introduction to Electrical Engineering and Computer Science I](./educations/mit/6.01SC.markdown) (In Progress)
