@@ -1,3 +1,5 @@
+{: .primer-spec-toc-ignore }
+
 ### Motivation
 
 I like learning things about AIs so why not.
