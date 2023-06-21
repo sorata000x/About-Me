@@ -4,10 +4,41 @@ title: Projects
 permalink: /projects/
 ---
 
+{% for repo in site.github.public_repositories %}
+
+<!--- Amazon Clone -->
+
+{% if repo.name == 'amazon-clone' %}
+
+### [Amazon Clone]({{ repo.html_url }})
+
+{{ repo.description }}
+
+<image src="../image/project/amazon_clone_demo.gif" width=500/> <br>
+
+Topics: {{ repo.topics | array_to_sentence_string }}
+
+Last updated: {{ repo.updated_at | date_to_string }}
+
+{% endif %}
+
+<!--- StarGazer -->
+
+{% if repo.name == 'StarGazer' %}
+
+### [Amazon Clone]({{ repo.html_url }})
+
+{{ repo.description }}
+
+<image src="../image/project/stargazer_demo.gif" width=500/> <br>
+
+Topics: {{ repo.topics | array_to_sentence_string }}
+
+Last updated: {{ repo.updated_at | date_to_string }}
+
+{% endif %}
 
 <!--- Achievement -->
-
-{% for repo in site.github.public_repositories %}
 
 {% if repo.name == 'Achievement' %}
 
