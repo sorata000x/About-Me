@@ -38,10 +38,28 @@ Assignment 1: Grid World
 
 Assignment 2: 2048
 
-Expectimax
+Expectimax Search
 
 <img src="./image/cse150b_2048_demo_1.gif" width=300>
 
-Expectimax + Strategy
+Expectimax Search + Strategy
 
 <img src="./image/cse150b_2048_demo_2.gif" width=300>
+
+#### Reinforce Learning
+
+Assignment 3: Blackjack
+
+<img src="./image/cse150b_blackjack_demo.gif" width=300>
+
+### Monte Carlo Tree Search
+
+Assignment 4: Gomoku
+
+<img src="./image/cse150b_gomoku_demo.gif" width=300>
+
+#### Constraint Solving
+
+Assignment 5: Sudoku
+
+<img src="./image/cse150b_sudoku_demo.png" width=300>
